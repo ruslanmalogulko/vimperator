@@ -1,0 +1,7 @@
+let mapleader = '\';
+
+noremap j 3j
+noremap k 3k
+noremap <F10> :tabopen https://translate.google.com/#en/ru/
+noremap <leader><esc> :noh<cr>
+noremap <leader><leader> <C-^>
